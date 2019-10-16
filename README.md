@@ -23,8 +23,8 @@
 
 主要模块均已开源:
 
-+ 后端(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/myleosu/SCNUOJ-Backend)
-+ 前端(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
++ 后端(Django): [https://github.com/myleosu/SCNUOJ-Backend](https://github.com/myleosu/SCNUOJ-Backend)
++ 前端(Vue): [https://github.com/myleosu/SCNUOJ-Front](https://github.com/myleosu/SCNUOJ-Front)
 
 
 ## 浏览器支持
